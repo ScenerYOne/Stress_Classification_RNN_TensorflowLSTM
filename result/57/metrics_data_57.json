@@ -1,0 +1,18 @@
+{
+  "trial": 57,
+  "units": 128,
+  "dropout": 0.15000000000000002,
+  "num_layers": 3,
+  "optimizer": "adam",
+  "learning_rate": 0.0001470306563624789,
+  "batch_size": 40,
+  "epochs": 28,
+  "accuracy": 0.9909243697478992,
+  "mean_val_accuracy": 0.9876890897750854,
+  "mean_val_loss": 0.03473125360906124,
+  "f1_score": 0.9909137539899401,
+  "precision": 0.9910196277955885,
+  "recall": 0.9909243697478992,
+  "training_time_seconds": 1170.1061425209045,
+  "timestamp": "2025-07-20 15:37:08"
+}
